@@ -15,3 +15,6 @@
 
 🔹 **Task 5: Number Guessing Game**  
 🎲 Create a simple number guessing game where the user has to guess a randomly generated number.  
+
+🔹 **Task 6: Password Generator**
+🔐 Create a random password generator that generates strong passwords.
