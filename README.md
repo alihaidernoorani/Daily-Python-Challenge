@@ -18,3 +18,6 @@
 
 🔹 **Task 6: Password Generator**
 🔐 Create a random password generator that generates strong passwords.
+
+🔹 **Task 7: Quiz Game**
+🧠 Create a simple quiz game where the user answers multiple-choice questions.
